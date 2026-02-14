@@ -80,3 +80,4 @@ function reiniciarJuego() {
   actualizarPasoVisual();
   document.getElementById("estado").innerText = "Juego reiniciado 🔄";
 }
+
